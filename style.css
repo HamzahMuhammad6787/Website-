@@ -1,0 +1,12 @@
+body {
+  background: #ADD8E6;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+table, th, td {
+  border: 1px solid black;
+}
